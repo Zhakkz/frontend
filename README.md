@@ -1,7 +1,7 @@
 # Front-end-Cheatsheets
 
 - Lernajs:
-     >The Original Tool for JavaScript Monorepos
+     >The Original Tool for frontend Monorepos
 - Commitlint:
      >Lint commit messages
 - Plopjs:
